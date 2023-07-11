@@ -1,0 +1,148 @@
+body{
+	background: #EDEDED;
+}
+nav{
+	display: inline-block;
+	margin-top: 21px;
+	margin-left: 137px;
+}
+li{
+	display: inline-block;
+	color: #000;
+	font-size: 11px;
+	font-family: Roboto;
+	font-weight: 700;
+	margin-right: 35px;
+}
+header img{
+	display: inline-block;
+	margin-top: 11px;
+	vertical-align: middle;
+}
+section{
+	margin-left: 137px;
+}
+.headline{
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.card{
+	display: inline-block;
+	width: 362px;
+	position: relative;
+	margin-right: 40px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+}
+.card-header{
+	display: inline-block;
+}
+.card-header h3{
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.main-info p{
+	margin-top: 68px;
+	margin-left: 37px;
+	width: 238px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.main-info img{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 37px;
+	margin-top: 11px;
+}
+.main-info h5{
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 14px;
+	margin-right: 11px;
+	margin-bottom: 41px;
+}
+.left{
+	display: inline-block;
+}
+.left-top{
+	position: relative;
+}
+.left-top p{
+	position: absolute;
+	top: 203px;
+	left: 278px;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.left img{
+	margin-bottom: 40px;
+}
+.right{
+	display: inline-block;
+	margin-left: 45px;
+	vertical-align: top;
+}
+.right img{
+	margin-bottom: 98px;
+	display: block;
+}
+footer{
+	background: #243043;
+	padding-top: 59px;
+}
+.list{
+	display: inline-block;
+	margin-bottom: 44px;
+	margin-left: 110px;
+}
+.list p{
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+}
+.message{
+	display: inline-block;
+	margin-left: 112px;
+	vertical-align: top;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+footer img{
+	display: inline-block;
+	margin-left: 416px;
+	vertical-align: top;
+}
